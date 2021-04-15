@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147451284947",
+    "project_id": "chatapp-ddc44",
+    "storage_bucket": "chatapp-ddc44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147451284947:android:eeb0e2f83e77af74157326",
+        "android_client_info": {
+          "package_name": "com.example.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147451284947-glm0mf502vnna6i2s3frn90nm0iv7c9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgSNuhj6sxSoLFELiVtNT3fJTxkOAhHVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147451284947-glm0mf502vnna6i2s3frn90nm0iv7c9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
